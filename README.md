@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning: Web Development and other programming languages
 
-- 📫 How to reach me: **twojastrata_#5358 (Discord)**
+- 📫 How to reach me: **twojastrata_#9371 (Discord)**
 
 <br>
 

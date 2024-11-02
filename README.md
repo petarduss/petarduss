@@ -1,55 +1,109 @@
-<h1 align="center">Hi 👋, I'm PetardekYT</h1>
-<h3 align="center">Back-end developer</h3>
 
-<br>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=petarduss&label=Profile views&color=0e75b6&style=flat"
-    alt="PetardekYT" /> 
-  </p>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm PetardekYT</h1></summary>
+  </ul>
+</div>
 
-<br>
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">About</h2></summary>
+  </ul>
+</div>
 
 
-- 🌱 I’m currently learning: Web Development and other programming languages
+<!--Intro start-->
+- 🔭 I’m currently working on tryhard.pl minecraft server project
 
-- 📫 How to reach me: **@umyj.sie (Discord)**
+- 🏠 Find me on discord –  [umyj.sie](https://discordapp.com/users/508200590912782336)!
+<!--Intro end-->
 
-<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /></a></p>
 
-<br>
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=petarduss&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=petarduss&theme=dark&hide_border=false" /> 
+</td>
 
-<h3>Statistical Data :</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=petarduss&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="petarduss" 
-    bg_color=#808080/></p>
+<td width="50%" align="center">
 
-<br>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=petarduss&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=petarduss&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="petarduss" /></p>
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=petarduss&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
 
-<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=petarduss&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="petarduss" /></p>
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+</p>        
+<!--- stats (end) -->
 
-[petarduss](https://github.com/petarduss)
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,scss,cloudflare,discord,docker,express,figma,redis,github,html,java,js,linux,md,nginx,mongodb,mysql,nodejs,py,react,ts,vscode,kubernetes,discordjs,gradle,go,idea,androidstudio,bash,bsd,debian,bots,electron,maven,mint,npm,php,powershell,stackoverflow,selenium,ubuntu,vim,spring,typescript,windows,webstorm&perline=14" />
+  </a>
+</p>
+
+## 🐍 A Snake Eating My Contributions Graph
+
+<p align="center">
+	<picture>
+        <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+        <img alt="github-snake" src="github-snake.svg" />
+      </picture>
+</p>
+
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Contact</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.instagram.com/petardki_sa_k0x/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://discordapp.com/users/508200590912782336" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+  
+</p>
+
+
+<!--profile visit count-->
+<div align="center">
+</div>
+
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

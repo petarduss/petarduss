@@ -76,11 +76,7 @@
 ## 🐍 A Snake Eating My Contributions Graph
 
 <p align="center">
-	<picture>
-        <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-        <img alt="github-snake" src="github-snake.svg" />
-      </picture>
+	![snake_gif](https://github.com/petarduss/petarduss/blob/output/github-snake-dark.svg)
 </p>
 
 

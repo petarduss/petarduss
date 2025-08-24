@@ -19,7 +19,8 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on tryhard.pl minecraft server project
+- 🔭 Currently developing the tryhard.pl Minecraft server
+- 🚀 Building own dedicated server & VPS hosting
 
 - 🏠 Find me on discord –  [umyj.sie](https://discordapp.com/users/508200590912782336)!
 <!--Intro end-->
@@ -69,7 +70,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,scss,cloudflare,discord,docker,express,figma,redis,github,html,java,js,linux,md,nginx,mongodb,mysql,nodejs,py,react,ts,vscode,kubernetes,discordjs,gradle,go,idea,androidstudio,bash,bsd,debian,bots,electron,maven,mint,npm,php,powershell,stackoverflow,selenium,ubuntu,vim,spring,typescript,windows,webstorm&perline=14" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,arch,arduino,atom,azure,bash,bsd,c,cs,cpp,clion,cloudflare,cmake,css,debian,discord,bots,discordjs,docker,eclipse,elasticsearch,electron,express,figma,git,github,githubactions,gmail,go,gradle,grafana,html,htmx,idea,instagram,java,js,kafka,kotlin,kubernetes,linux,md,maven,mint,mongodb,mysql,nextjs,nginx,nodejs,npm,nuxtjs,perl,php,phpstorm,postman,powershell,prometheus,raspberrypi,react,reactivex,redhat,redis,regex,rust,sass,spring,stackoverflow,selenium,svg,ts,ubuntu,vim,visualstudio,vite,vscode,webpack,webstorm,windows&perline=14" />
   </a>
 </p>
 

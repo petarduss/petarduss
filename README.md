@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=220&section=header&text=petarduss&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Developer | Network And Infrastructure | Self-Hosting&descSize=16&descAlignY=55" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=220&section=header&text=petarduss&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Developer%20%7C%20Network%20and%20Infrastructure%20%7C%20Self-Hosting&descSize=16&descAlignY=55" />
 </div>
 
 <!-- TYPING INTRO -->

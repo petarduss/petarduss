@@ -170,7 +170,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=petarduss&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=petarduss&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </div>
 
 <br />

@@ -150,7 +150,7 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=petarduss&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-sable-chi.vercel.app/api?username=petarduss&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=petarduss&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
@@ -158,7 +158,7 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petarduss&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=10" alt="Top Languages" />
+        <img src="https://github-readme-stats-sable-chi.vercel.app/api/top-langs/?username=petarduss&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=10" alt="Top Languages" />
       </td>
     </tr>
   </table>
